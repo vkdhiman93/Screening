@@ -1,4 +1,4 @@
-# Write a program for multiple inhertitance
+# Write a program for inhertitance
 
 class Animal:
     def __init__(self):
